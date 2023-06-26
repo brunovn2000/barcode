@@ -19,7 +19,8 @@ pip install pdf2image
 
 
 ## Uso/Exemplos
-#### Informe o path do arquivo PDF: pdf/NF42884.pdf
+#### Informe o path do arquivo PDF: 
+input: pdf/NF42884.pdf
 
 ```JSON
 
